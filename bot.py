@@ -6,7 +6,7 @@ from discord.ext import commands
 # ──────────────────────────────────────────────
 #  Configuración
 # ──────────────────────────────────────────────
-TOKEN = "MTUyMDUzOTAzNTQ4MTgwNTAyMA.G_sIbC.ZZCxBwyVFrcRZzMl8cveRZqf7CJil8vQPjvuyc" # pon tu token aquí o en la variable de entorno
+TOKEN = "MTUyMDUzOTAzNTQ4MTgwNTAyMA.Gx5knJ.dftmbBS3qoDzsJyKVi1ncXCkRQuluyO5HAt14U" # pon tu token aquí o en la variable de entorno
 MINUTOS = 5                          # tiempo antes del recordatorio
 
 # ──────────────────────────────────────────────
